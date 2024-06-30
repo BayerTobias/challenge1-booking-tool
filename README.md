@@ -39,9 +39,9 @@ This API facilitates the management of appointments between doctors and patients
         "username": "doctor1",
         "id": 1
       },
-      "title": "Dr.",
-      "speciality": "Radiologist",
-      "name": "Dr. Smith"
+      "title": "dr",
+      "speciality": "radiologe",
+      "name": "Jon Smith"
     },
     {
       "id": 2,
@@ -49,9 +49,9 @@ This API facilitates the management of appointments between doctors and patients
         "username": "doctor2",
         "id": 2
       },
-      "title": "Prof. Dr.",
-      "speciality": "General Medicine",
-      "name": "Prof. Dr. Müller"
+      "title": "prof_dr.",
+      "speciality": "allgemeinmedizin",
+      "name": "Barbra Müller"
     }
   ]
   ```
@@ -67,9 +67,9 @@ This API facilitates the management of appointments between doctors and patients
       "username": "doctor_new",
       "password": "password123"
     },
-    "title": "Dr.",
-    "speciality": "Dermatologist",
-    "name": "Dr. Brown"
+    "title": "dr",
+    "speciality": "hautarzt",
+    "name": "Joe Brown"
   }
   ```
 
@@ -81,9 +81,9 @@ This API facilitates the management of appointments between doctors and patients
       "username": "doctor_new",
       "id": 3
     },
-    "title": "Dr.",
-    "speciality": "Dermatologist",
-    "name": "Dr. Brown"
+    "title": "dr",
+    "speciality": "hautarzt",
+    "name": "Joe Brown"
   }
   ```
 
