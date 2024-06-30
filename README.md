@@ -11,12 +11,12 @@ This API facilitates the management of appointments between doctors and patients
 - **Description**: Obtain a token for authentication.
 - **Request Body**:
 
-```json
-{
-  "username": "string",
-  "password": "string"
-}
-```
+  ```json
+  {
+    "username": "string",
+    "password": "string"
+  }
+  ```
 
 - **Response**:
   ```json
